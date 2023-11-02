@@ -1,0 +1,109 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .first{
+    width: 100%;
+    height: 100px;
+    background-color: #dad;
+    float: left;
+}
+.second{
+    width: 100%;
+    height: 100px;
+    background-color: #987;
+    clear: left;
+}
+.third{
+    width: 100%;
+    height: 100px;
+    background-color: #234;
+}
+.fourth{
+    width: 100%;
+    height: 100px;
+    background-color: #158;
+} */
+
+/* .content{
+    position: sticky;
+    top: 0;
+    /* width: 400px;
+    height: 200px; */
+    /* background-color: green; */
+    /* border: 3px solid #73AD21; */
+/* } */ 
+/* .con{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+} */
+
+body{
+    background-color: #bdb;
+}
+div{
+    display: inline-block;
+    padding: 20px 20px;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 600;
+    position: -webkit-sticky;
+    top: 0;
+    
+}
+.sign{
+    margin-left: 500px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: green;
+}
+img{
+    margin-top: 70px;
+    margin-right: 100px;
+}
+.mat{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+.beg{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+.exam{
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+    margin-left: 200px;
+}
+.gen{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    display: block;
+}
+.run{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+.cong{
+    text-align: center;
+    margin-left: 210px;
+}
+.fine{
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+    margin-left: 150px;
+}
+.grad{
+    width: 500px;
+}
